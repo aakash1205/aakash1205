@@ -1,4 +1,4 @@
-![image](https://github.com/aakash1205/aakash1205/assets/114174835/3e6e1a5e-5319-4b14-9b84-3b40d0393479)# Hi there 👋, I'm Aakash!
+ Hi there 👋, I'm Aakash!
 ## 🚀 About Me
 
 I am a passionate student who's interested in software development .
