@@ -1,7 +1,7 @@
  Hi there 👋, I'm Aakash!
 ## 🚀 About Me
 
-I am a passionate student who's interested in software development .
+I am a passionate student who's interested in software development.
 
 - 🔭 I’m currently working on developing my first fullstack website.
 - 🌱 I’m currently learning MERN stack and AWS
@@ -23,16 +23,9 @@ I am a passionate student who's interested in software development .
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
-
-
 ## 📫 Connect with Me
 
 linkedin :   https://www.linkedin.com/in/aakash-k-275705234/
-
-
-
-
 
 ⭐️ From [Your GitHub Username](https://github.com/aakash1205)
 
