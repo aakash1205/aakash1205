@@ -1,10 +1,10 @@
  Hi there 👋, I'm Aakash!
 ## 🚀 About Me
 
-I am a passionate student who's interested in software development .
+I am a passionate student who's interested in software development.
 
-- 🔭 I’m currently working on developing my first fullstack website.
-- 🌱 I’m currently learning AWS
+- 🔭 I’m currently working on developing my first fullstack website on different stacks.
+- 🌱 I’m currently learning AWS and GO.
 - 👯 I’m looking to collaborate on web-applications 
 - 📫 How to reach me: aakashkuruva@gmail.com
 
