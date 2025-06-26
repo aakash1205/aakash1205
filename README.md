@@ -2,7 +2,7 @@
 ## 🚀 About Me
 
 I am a passionate student who's interested in software development.
--Currently focusing on Devops
+- Currently focusing on Devops
 
 
 
