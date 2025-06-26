@@ -2,9 +2,7 @@
 ## 🚀 About Me
 
 I am a passionate student who's interested in software development.
-- 🌱 I’m currently learning AWS and GO.
-- 👯 I’m looking to collaborate on web-applications 
-- 📫 How to reach me: aakashkuruva@gmail.com
+-Currently focusing on Devops
 
 
 
